@@ -1,0 +1,24 @@
+@info
+I am sure that you most likely did not get to this message in an honest manner.
+If not, then congratulations, you have passed the most difficult level! 
+
+I'm really glad someone made it here. I had plans to make more levels, but I
+mistakenly thought that this would be enough for a few players. And besides,
+the main goal was to make a TUI clone of the tis-100, but during the development
+process I deviated quite a lot from the original, as you may have noticed.
+
+At the time of writing, I'm not sure where I'll end up releasing the game.
+Regardless of this, you probably have my contacts - you can just write to me
+and ask me to add new levels. Even though almost all of the levels are
+literal ports of the original game, I still have ideas for new levels
+(and especially new types of circuits).
+
+Anyway, thanks for playing!
+
+Oh, and I suddenly realized that I could create levels without a tasks,
+just to send "messages" that way. Funny...
+@end
+
+@req
+024_the_spider
+@end

@@ -1,0 +1,70 @@
+@twics
+Lorem ipsum dolor sit amet, consectetur adipiscing
+elit, sed do eiusmod tempor incididunt ut labore et 
+dolore magna aliqua. Ut enim ad minim veniam, quis
+nostrud exercitation ullamco laboris nisi ut aliquip
+ex ea commodo consequat. Duis aute irure dolor
+in reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa qui
+officia deserunt mollit anim id est laborum.
+The Industrial Revolution and its consequences
+havebeen a disaster for the human race. They have
+greatly increased the life-expectancy of those of
+us who live in "advanced" countries, but they have
+destabilized society, have made life unfulfilling,
+have subjected human beings to indignities, have
+led to widespread psychological suffering (in the
+Third World to physical suffering as well) and have
+inflicted severe damage on the natural world. The
+continued development of technology will worsen the
+situation. It will certainly subject human beings
+to greater indignities and inflict greater damage
+on the natural world, it will probably lead to
+greater social disruption and psychological
+suffering, and it may lead to increased physical
+suffering even in "advanced" countries.
+@end
+
+@twocs
+Lorem ipsum dolor sit amet, consectetur adipiscing
+dolore magna aliqua. Ut enim ad minim veniam, quis
+ex ea commodo consequat. Duis aute irure dolor
+dolore eu fugiat nulla pariatur. Excepteur sint
+officia deserunt mollit anim id est laborum.
+havebeen a disaster for the human race. They have
+us who live in "advanced" countries, but they have
+have subjected human beings to indignities, have
+Third World to physical suffering as well) and have
+continued development of technology will worsen the
+to greater indignities and inflict greater damage
+greater social disruption and psychological
+suffering even in "advanced" countries.
+@end
+
+@twocs
+elit, sed do eiusmod tempor incididunt ut labore et 
+nostrud exercitation ullamco laboris nisi ut aliquip
+in reprehenderit in voluptate velit esse cillum
+occaecat cupidatat non proident, sunt in culpa qui
+The Industrial Revolution and its consequences
+greatly increased the life-expectancy of those of
+destabilized society, have made life unfulfilling,
+led to widespread psychological suffering (in the
+inflicted severe damage on the natural world. The
+situation. It will certainly subject human beings
+on the natural world, it will probably lead to
+suffering, and it may lead to increased physical
+@end
+
+@info
+1. read text form twics[0] line-by-line
+2. write odd lines to twocs[0]
+3. write even lines to twocs[1]
+all lines terminated with ASCII character '\n' (10)
+you can see other ASCII table in the manual
+@end
+
+@req
+003_compare
+@end

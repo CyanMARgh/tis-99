@@ -1,0 +1,30 @@
+@spider
+
+@info
+As a reward for the timely solution to the previous task, the customer
+company shared with us an insider from the development department of one
+of our competitors - M-Visuals company. In the coming year, they plan to
+release a new processor for the mass market, allowing them to do graphics
+work faster than ever. ##### ##### managed to take away a replica of one
+of the prototypes in order to analyze its structure, give us the
+opportunity to recreate its analogue in the shortest possible time and
+prevent them from monopolizing the market. The spy managed to find out
+that to activate this chip, it is necessary to enter a password on one of
+the pins at startup (in the process of entering the password, the display
+will be filled with more and more red). However, the task is made more
+difficult by the fact that the key is generated anew on hardware level
+every time the board is turned on. The transition to "preparation under
+a microscope" stage doesn't make much sense until we even know what it
+does and how it does it, and, most importantly, until we don't know how
+it turns on. We assign you the following task: 
+
+1. Find a way to bypass the protection of "The Spider" circuit.
+
+We're counting on you.
+@end
+
+@req
+017_sort_array
+023_decode_image
+016_int_to_string
+@end
