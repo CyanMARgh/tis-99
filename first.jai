@@ -122,7 +122,7 @@ build :: () {
 		dead_code_elimination = .ALL;
 		backtrace_on_crash = .OFF;
 	}
-	import_path = .[import_path[1], IMPORT_EXTRA_PATH];
+	import_path = .[import_path[0], import_path[1], IMPORT_EXTRA_PATH];
 	output_executable_name = EXECUTABLE_NAME;
 
 	set_build_options(target_options, w);
